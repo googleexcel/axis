@@ -1,0 +1,8 @@
+<Response>
+<Say voice="alice">
+Welcome to Axis technologies computer training instutite mehdipatnam hyderabad. courser offered Microsoft office Advanced Excel Accounting Packages tally Autocad 3dsmax photoshop Coreldraw many more contact no 9246062010.
+</Say>
+<Dial record="true">
+<Conference>Full Stack Python</Conference>
+</Dial>
+</Response>
